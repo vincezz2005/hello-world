@@ -1,2 +1,3 @@
 # hello-world
-my first code
+Hi There!
+This is a test!
